@@ -1,0 +1,8 @@
+title: Love
+description: My H
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
